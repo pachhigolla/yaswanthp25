@@ -3,7 +3,7 @@ package yaswanthp25;
 public class Sample {
 
 	public static void main(String[] args) {
-		System.out.println("yaswanth")
+		System.out.println("yaswanth");
 
 	}
 
